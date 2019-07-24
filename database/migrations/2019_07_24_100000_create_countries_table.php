@@ -13,7 +13,6 @@ class CreateCountriesTable extends Migration
             $table->string('name');
             $table->string('short_code');
             $table->timestamps();
-            $table->softDeletes();
         });
     }
 }
