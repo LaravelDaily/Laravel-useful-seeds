@@ -625,7 +625,7 @@ class CountriesTableSeeder extends Seeder
             ],
             [
                 'id'         => 124,
-                'name'       => 'Macedonia',
+                'name'       => 'North Macedonia',
                 'short_code' => 'mk',
             ],
             [
